@@ -14,6 +14,8 @@ you can change sound code follow in PanResponder.js
       
 this will better but also will have some problem = = 
 if you have better way please tell me or pull requirest
+# how to use
+please read example.js 
 
 ![Alt text](https://github.com/pj0579/react-native-pull-to-detail/blob/master/android-demo.gif?raw=true)
 ![Alt text](https://github.com/pj0579/react-native-pull-to-detail/blob/master/ios-demo.gif?raw=true)
