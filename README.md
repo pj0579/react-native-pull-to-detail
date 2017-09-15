@@ -8,9 +8,9 @@ android have some problem  flatlist will become the respender
 that mean onPanResponderTerminate will be called and onPanResponderRelease will not called
 you can change sound code follow in PanResponder.js
 
- onResponderTerminate: function (e) {
-        setTimeout(()=>{clearInteractionHandle(interactionState, config.onPanResponderRelease, e, gestureState);PanResponder._initializeGestureState(gestureState);},100)
-      },
+    onResponderTerminate: function (e) {    setTimeout(()=>{
+    clearInteractionHandle(interactionState, config.onPanResponderRelease, e, gestureState);
+    PanResponder._initializeGestureState(gestureState);},100)},
       
 this will better but also will have some problem = = 
 if you have better way please tell me or pull requirest
