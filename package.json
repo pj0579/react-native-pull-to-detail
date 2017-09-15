@@ -1,0 +1,11 @@
+{
+  "name": "react-native-pull-to-detail",
+  "version": "1.0.0",
+  "description": "pull to detail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
